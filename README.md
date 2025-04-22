@@ -1,6 +1,6 @@
 # Домашнее задание к лекции «Object, Reflection и Proxy»
 
-[![Build status](https://ci.appveyor.com/api/projects/status/01dha6r5k8j4wur1?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/objects-forin)
+[![Build status](https://ci.appveyor.com/api/projects/status/5vbisy778ctuukao?svg=true)](https://ci.appveyor.com/project/TanyaBazuto/objects-forin)
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
